@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CE Home R2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_home">Home Network</string>
+    <string name="action_internet">Internet</string>
+    <string name="action_auto">Auto Select</string>
+    <string name="common">Common</string>
+    <string name="electronics">Electronics</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_invalid_username">This username is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_credentials">Incorrect Credentials</string>
+    <string name="title_activity_home">Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_rooms">RoomsActivity</string>
+    <string name="title_activity_modes">ModesActivity</string>
+    <string name="title_activity_lights">LightsActivity</string>
+    <string name="title_activity_blinds">BlindsActivity</string>
+    <string name="title_activity_fans">FansActivity</string>
+    <string name="title_activity_ac">AcActivity</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="title_activity_others">OthersActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
